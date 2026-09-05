@@ -72,7 +72,5 @@ browser to view training/validation loss and accuracy curves.
 - See the submitted assignment document for full explanations, program
   output, and answers to the TensorBoard reflection questions (4.1).
 
-## Video Demonstration
-
 A 2–3 minute video demonstrating this assignment and explaining key code
 snippets is linked in the Bright Space submission.
